@@ -30,8 +30,19 @@
 }
 
 body {
+  overflow: hidden;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   font-family: 'Plus-Medium';
+}
+
+#svg {
+  margin-top: 20%;
+}
+
+@media (max-width:425px) {
+  body {
+    overflow: auto;
+  }
 }

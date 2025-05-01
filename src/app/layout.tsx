@@ -27,7 +27,6 @@ export default function RootLayout({
       <body
       >
         {children}
-        <input type="number" defaultValue={0} />
       </body>
     </html>
   );
