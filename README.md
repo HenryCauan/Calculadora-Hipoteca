@@ -1,36 +1,68 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Claro! Aqui está um modelo de README para seu projeto no GitHub:
 
-## Getting Started
+---
 
-First, run the development server:
+# 🏠 Mortgage Amortization Calculator
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Uma **Calculadora de Amortização de Hipoteca** desenvolvida com **Next.js**, **React**, **TypeScript** e **JavaScript**.
+O projeto permite que usuários insiram valores como o principal, a taxa de juros e o prazo do empréstimo para calcular e visualizar o cronograma de amortização.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🚀 Tecnologias utilizadas
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+* [Next.js](https://nextjs.org/)
+* [React](https://reactjs.org/)
+* [TypeScript](https://www.typescriptlang.org/)
+* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## ✨ Funcionalidades
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+✅ Cálculo automático de pagamentos mensais
+✅ Exibição do cronograma de amortização mês a mês
+✅ Entrada personalizada de valores (principal, juros, prazo)
+✅ Interface responsiva e amigável
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 📸 Demonstração
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+> *(Adicione aqui um gif ou imagem do app rodando, se possível)*
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 🛠️ Estrutura do projeto
+
+* `components/` → Componentes reutilizáveis React
+* `pages/` → Rotas do Next.js
+* `styles/` → Estilos globais e locais
+* `utils/` → Funções auxiliares para cálculos
+
+---
+
+## 📅 Próximas melhorias
+
+* 🔹 Adicionar gráficos visuais (ex: gráficos de barras ou pizza)
+* 🔹 Exportação dos resultados em PDF
+* 🔹 Opção de diferentes tipos de amortização (ex: SAC, PRICE)
+* 🔹 Internacionalização (i18n)
+
+---
+
+## 🤝 Contribuição
+
+Contribuições são bem-vindas!
+Sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**.
+
+---
+
+## 📝 Licença
+
+Este projeto está licenciado sob a licença MIT.
+Veja mais em [LICENSE](LICENSE).
+
+---
+
+Quer que eu prepare também uma imagem de demonstração para colocar no README?
