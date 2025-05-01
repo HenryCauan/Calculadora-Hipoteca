@@ -1,10 +1,11 @@
 import Image from "../assets/illustration-empty.svg";
+import 'remixicon/fonts/remixicon.css';
 
 export default function Home() {
   return (
     <>
       <div className="w-screen h-dvh flex justify-center items-center bg-[color:#e3f4fc] text-black">
-        <div className="flex w-[55%] h-[60%] bg-white rounded-2xl">
+        <div className="flex w-[55%] h-[56%] bg-white rounded-2xl">
           <div className="w-1/2 p-8">
             <div className="flex items-center justify-between mb-8">
               <h2 className="text-2xl font-bold text-[#133040]">Montgage Calculator</h2>
@@ -33,7 +34,7 @@ export default function Home() {
                 </div>
               </div>
             </div>
-            <div className="flex flex-col gap-2">
+            <div className="flex flex-col gap-2 mb-7">
               <span className="opacity-60 font-medium">Mortgage Type</span>
               <label className="flex items-center border border-gray-300 w-full rounded-md px-4 py-3 cursor-pointer w-fit">
                 <input
@@ -58,9 +59,9 @@ export default function Home() {
                 <span className="font-semibold text-gray-800">Interest Only</span>
               </label>
             </div>
-            <button>Calculate Repayments</button>
+            <button className="flex gap-2 text-[#133040] bg-[#d9db30] font-bold px-6 py-3 rounded-3xl"><i className="ri-calculator-fill" style={{fontSize:'17px'}}></i>Calculate Repayments</button>
           </div>
-          <div className="flex-1 bg-[color:#133040] rounded-2xl rounded-tl-none rounded-bl-[10%]">
+          <div className="flex-1 flex flex-col items-center bg-[color:#133040] rounded-2xl rounded-tl-none rounded-bl-[10%]">
             <img className="" src={Image} alt="" />
             <h2>Results shown here</h2>
             <p>Complete the form and click "calculate repayments" to see what your monthly repayments would be.</p>
