@@ -4,7 +4,7 @@ Claro! Aqui está um modelo de README para seu projeto no GitHub:
 
 # 🏠 Mortgage Amortization Calculator
 
-Uma **Calculadora de Amortização de Hipoteca** desenvolvida com **Next.js**, **React**, **TypeScript** e **JavaScript**.
+Uma **Calculadora de Amortização de Hipoteca** desenvolvida com **Next.js**, **React**, **TailwindCSS**, **TypeScript** e **JavaScript**.
 O projeto permite que usuários insiram valores como o principal, a taxa de juros e o prazo do empréstimo para calcular e visualizar o cronograma de amortização.
 
 ---
@@ -15,6 +15,7 @@ O projeto permite que usuários insiram valores como o principal, a taxa de juro
 * [React](https://reactjs.org/)
 * [TypeScript](https://www.typescriptlang.org/)
 * [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+* [TailwindCSS]()
 
 ---
 
