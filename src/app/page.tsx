@@ -1,4 +1,4 @@
-import Image from "../assets/illustration-empty.svg";
+
 import 'remixicon/fonts/remixicon.css';
 
 export default function Home() {
