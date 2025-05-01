@@ -168,7 +168,7 @@ export default function Home() {
               <div className='flex flex-col p-12'>
                 <h2 className='text-white text-2xl mb-4'>Your results</h2>
                 <p className='text-1xl opacity-65 text-[#e3f4fc] mt-4 mb-4'>
-                  Your results are shown below based on the information your provided. To adjust the results, edit the form and click "calculate repayments" again
+                  Your results are shown below based on the information your provided. To adjust the results, edit the form and click "calculate repayments"again
                 </p>
                 <div className='w-[100%] h-[25vh] bg-[#0e2532] p-4 rounded-lg border-t-4 border-[#d9db30]'>
                   <p className='text-1xl opacity-45 text-[#e3f4fc] mb-2'>
