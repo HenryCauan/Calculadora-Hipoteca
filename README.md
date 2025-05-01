@@ -29,7 +29,7 @@ O projeto permite que usuários insiram valores como o principal, a taxa de juro
 
 ## 📸 Demonstração
 
-> *(Adicione aqui um gif ou imagem do app rodando, se possível)*
+![Image](https://github.com/user-attachments/assets/a8d3bdff-918b-4934-a8bd-60404d1143bd)
 
 ---
 
