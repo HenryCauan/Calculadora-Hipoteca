@@ -1,6 +1,3 @@
-Claro! Aqui está um modelo de README para seu projeto no GitHub:
-
----
 
 # 🏠 Mortgage Amortization Calculator
 
@@ -64,6 +61,3 @@ Sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**.
 Este projeto está licenciado sob a licença MIT.
 Veja mais em [LICENSE](LICENSE).
 
----
-
-Quer que eu prepare também uma imagem de demonstração para colocar no README?
